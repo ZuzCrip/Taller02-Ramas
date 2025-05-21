@@ -15,3 +15,9 @@ Integrante 1: Domenica Katherine Amores Cedeño
 
 Integrante 2: Carlos Jonathan Aguilera Poveda.
 ![image](https://github.com/user-attachments/assets/42b71ea1-91bc-491a-bae7-1a6fbc6df411)
+
+
+
+integrante 3: Cambio de posicion del número de top de canciones (Mero Gavilanez Ariel)
+
+![image](https://github.com/user-attachments/assets/9bcc5fa4-c999-4339-bc4f-43f44d491e33)
